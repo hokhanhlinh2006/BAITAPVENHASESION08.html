@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+.c{
+    width: 100px;
+    height: 100px;
+} 
+.a{
+    border: 2px solid rgb(255, 247, 247);
+width: 60%;
+height: 10%;
+}
+.b{
+    color: rgb(30, 18, 41);
+}
+.d{
+    color: rgb(168, 168, 168);
+}
+
+
+

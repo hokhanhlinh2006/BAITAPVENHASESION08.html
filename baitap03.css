@@ -1,0 +1,17 @@
+.color{
+    color: red;
+}
+.a{
+    color: rgb(75, 75, 96);
+}
+.d{
+    color: rgb(195, 195, 195);
+}
+.e{
+    color: rgb(196, 13, 13);
+}
+.k{
+    border: 2px solid rgb(255, 247, 247);
+    width: 60%;
+    height: 10%;
+}
